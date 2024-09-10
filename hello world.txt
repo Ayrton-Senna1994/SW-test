@@ -6,4 +6,3 @@ def print_kit():
 if __name__ == '_main_':
     print_KIT()
     print_hello()
-   
